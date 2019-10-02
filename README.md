@@ -11,7 +11,7 @@
 
 #### Make zsh your default terminal
 - `chsh -s $(which zsh)`
--  Now logout and login of the current user and run `echo $SHELL`
+-  Now logout and login the current user and run `echo $SHELL`
 - It should show zsh
 
 
